@@ -46,7 +46,8 @@
 | :--- | :---: | :--- | :--- |
 | Admin. de Sistemas y Redes | [1] | The Debian Administrator’s Handbook | [Abrir](<books/The Debian Administrator’s Handbook.pdf>) |
 | Admin. de Sistemas y Redes | [2] | Python Para Todos | [Abrir](<books/Python Para Todos.pdf>) |
-| Compiladores e Interpretes | [1] | Compiladores, Aho | [Abrir](<books/Compilers Principles Techniques and Tools, Aho (2nd Edition) .pdf>) |
+| Compiladores e Interpretes | [1] | Compiladores, Aho (es) | [Abrir](<books/Compiladores Principios Tecnicas y Herramientas, Aho (2a Edicion).pdf>) |
+| Compiladores e Interpretes | [1] | Compiladores, Aho (en) | [Abrir](<books/Compilers Principles Techniques and Tools, Aho (2nd Edition) .pdf>) |
 | Computación Distribuida | [1] | Distributed Systems, Concepts and Design | [Abrir](<books/Distributed Systems, Concepts and Design {5}.pdf>) |
 | Computación Distribuida | [1] | Java Network Programming | [Abrir](<books/Java Network Programming.pdf>) |
 | Ingeniería del Software | [1] | Ingeniería del Software. Un enfoque práctico | [Abrir](<books/Ingeniería del Software. Un enfoque práctico {7}.pdf>) |
